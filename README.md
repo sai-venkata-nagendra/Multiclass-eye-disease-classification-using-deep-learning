@@ -48,7 +48,7 @@ If you find this architecture or dataset strategy helpful for your research, ple
 ```bibtex
 @inproceedings{surat2026hybrid,
   title={A Hybrid Deep Learning Approach for Multi-Class Eye Disease Classification},
-  author={ S. S. V. Nagendra and Harshith, Y. S. and Menariya, N. and Venkateswaran, S. and Batchu, R. K. and Kumar, C.},
+  author={Surat, S. S. V. N. B. and Harshith, Y. S. and Menariya, N. and Venkateswaran, S. and Batchu, R. K. and Kumar, C.},
   booktitle={Proceedings of the 16th International Conference Confluence 2026},
   series={Lecture Notes in Electrical Engineering (LNEE)},
   publisher={Springer Nature},
